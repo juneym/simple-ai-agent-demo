@@ -1,0 +1,542 @@
+[
+    {
+      "zip_code": "90210",
+      "city": "Beverly Hills",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Sunny",
+        "description": "Clear skies with light breeze",
+        "temperature_fahrenheit": 78,
+        "temperature_celsius": 25.6,
+        "feels_like_fahrenheit": 79,
+        "humidity_percent": 55,
+        "wind_speed_mph": 8,
+        "visibility_miles": 10
+      },
+      "forecast_today": {
+        "high_fahrenheit": 82,
+        "low_fahrenheit": 60,
+        "condition": "Sunny",
+        "description": "Warm and clear throughout the day"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 79,
+        "low_fahrenheit": 58,
+        "condition": "Partly Cloudy",
+        "description": "Morning clouds, clearing by afternoon"
+      }
+    },
+    {
+      "zip_code": "94103",
+      "city": "San Francisco",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Partly Cloudy",
+        "description": "Cool with typical morning fog patches",
+        "temperature_fahrenheit": 62,
+        "temperature_celsius": 16.7,
+        "feels_like_fahrenheit": 60,
+        "humidity_percent": 85,
+        "wind_speed_mph": 12,
+        "visibility_miles": 5
+      },
+      "forecast_today": {
+        "high_fahrenheit": 65,
+        "low_fahrenheit": 55,
+        "condition": "Foggy then Partly Cloudy",
+        "description": "Morning fog, burning off to partial sun"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 63,
+        "low_fahrenheit": 54,
+        "condition": "Overcast",
+        "description": "Cool and overcast all day"
+      }
+    },
+    {
+      "zip_code": "92262",
+      "city": "Palm Springs",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Clear",
+        "description": "Hot and dry desert air",
+        "temperature_fahrenheit": 105,
+        "temperature_celsius": 40.6,
+        "feels_like_fahrenheit": 102,
+        "humidity_percent": 15,
+        "wind_speed_mph": 5,
+        "visibility_miles": 10
+      },
+      "forecast_today": {
+        "high_fahrenheit": 110,
+        "low_fahrenheit": 80,
+        "condition": "Sunny",
+        "description": "Extremely hot and clear"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 108,
+        "low_fahrenheit": 78,
+        "condition": "Sunny",
+        "description": "Continued hot and sunny"
+      }
+    },
+    {
+      "zip_code": "95814",
+      "city": "Sacramento",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Sunny",
+        "description": "Warm Central Valley conditions",
+        "temperature_fahrenheit": 92,
+        "temperature_celsius": 33.3,
+        "feels_like_fahrenheit": 90,
+        "humidity_percent": 30,
+        "wind_speed_mph": 7,
+        "visibility_miles": 10
+      },
+      "forecast_today": {
+        "high_fahrenheit": 96,
+        "low_fahrenheit": 68,
+        "condition": "Sunny",
+        "description": "Very warm and clear"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 94,
+        "low_fahrenheit": 66,
+        "condition": "Sunny",
+        "description": "Another warm and sunny day"
+      }
+    },
+    {
+      "zip_code": "92101",
+      "city": "San Diego",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Marine Layer",
+        "description": "Coastal low clouds and cool air",
+        "temperature_fahrenheit": 68,
+        "temperature_celsius": 20.0,
+        "feels_like_fahrenheit": 69,
+        "humidity_percent": 75,
+        "wind_speed_mph": 10,
+        "visibility_miles": 7
+      },
+      "forecast_today": {
+        "high_fahrenheit": 72,
+        "low_fahrenheit": 62,
+        "condition": "Partly Cloudy",
+        "description": "Morning marine layer, afternoon clearing"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 70,
+        "low_fahrenheit": 61,
+        "condition": "Marine Layer",
+        "description": "Coastal clouds returning"
+      }
+    },
+    {
+      "zip_code": "93602",
+      "city": "Auberry",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Hazy Sunshine",
+        "description": "Mountain air with some atmospheric haze",
+        "temperature_fahrenheit": 85,
+        "temperature_celsius": 29.4,
+        "feels_like_fahrenheit": 84,
+        "humidity_percent": 40,
+        "wind_speed_mph": 6,
+        "visibility_miles": 8
+      },
+      "forecast_today": {
+        "high_fahrenheit": 88,
+        "low_fahrenheit": 65,
+        "condition": "Sunny",
+        "description": "Warm mountain day"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 86,
+        "low_fahrenheit": 64,
+        "condition": "Clear",
+        "description": "Clear and slightly cooler"
+      }
+    },
+    {
+      "zip_code": "90012",
+      "city": "Los Angeles",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Sunny",
+        "description": "Warm and clear in downtown",
+        "temperature_fahrenheit": 80,
+        "temperature_celsius": 26.7,
+        "feels_like_fahrenheit": 81,
+        "humidity_percent": 60,
+        "wind_speed_mph": 7,
+        "visibility_miles": 10
+      },
+      "forecast_today": {
+        "high_fahrenheit": 84,
+        "low_fahrenheit": 63,
+        "condition": "Sunny",
+        "description": "Pleasant and warm"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 81,
+        "low_fahrenheit": 62,
+        "condition": "Sunny",
+        "description": "Mainly sunny with light winds"
+      }
+    },
+    {
+      "zip_code": "95060",
+      "city": "Santa Cruz",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Cloudy",
+        "description": "Cool, coastal clouds with no sun",
+        "temperature_fahrenheit": 58,
+        "temperature_celsius": 14.4,
+        "feels_like_fahrenheit": 56,
+        "humidity_percent": 90,
+        "wind_speed_mph": 9,
+        "visibility_miles": 4
+      },
+      "forecast_today": {
+        "high_fahrenheit": 60,
+        "low_fahrenheit": 52,
+        "condition": "Cloudy",
+        "description": "Persistent coastal low clouds"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 61,
+        "low_fahrenheit": 53,
+        "condition": "Drizzle",
+        "description": "Light drizzle possible, overcast"
+      }
+    },
+    {
+      "zip_code": "93301",
+      "city": "Bakersfield",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Clear",
+        "description": "Hot and dry in the Central Valley",
+        "temperature_fahrenheit": 98,
+        "temperature_celsius": 36.7,
+        "feels_like_fahrenheit": 97,
+        "humidity_percent": 20,
+        "wind_speed_mph": 10,
+        "visibility_miles": 10
+      },
+      "forecast_today": {
+        "high_fahrenheit": 102,
+        "low_fahrenheit": 75,
+        "condition": "Sunny",
+        "description": "Very hot, clear skies"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 100,
+        "low_fahrenheit": 73,
+        "condition": "Sunny",
+        "description": "Slightly less hot but still clear"
+      }
+    },
+    {
+      "zip_code": "96150",
+      "city": "South Lake Tahoe",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Sunny",
+        "description": "Cool mountain sunshine",
+        "temperature_fahrenheit": 65,
+        "temperature_celsius": 18.3,
+        "feels_like_fahrenheit": 63,
+        "humidity_percent": 45,
+        "wind_speed_mph": 15,
+        "visibility_miles": 10
+      },
+      "forecast_today": {
+        "high_fahrenheit": 68,
+        "low_fahrenheit": 45,
+        "condition": "Sunny",
+        "description": "Pleasant mountain day"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 62,
+        "low_fahrenheit": 40,
+        "condition": "Partly Cloudy",
+        "description": "A chance of afternoon showers"
+      }
+    },
+    {
+      "zip_code": "95401",
+      "city": "Santa Rosa",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Morning Fog",
+        "description": "Dense fog clearing to sun",
+        "temperature_fahrenheit": 60,
+        "temperature_celsius": 15.6,
+        "feels_like_fahrenheit": 59,
+        "humidity_percent": 92,
+        "wind_speed_mph": 5,
+        "visibility_miles": 1
+      },
+      "forecast_today": {
+        "high_fahrenheit": 75,
+        "low_fahrenheit": 54,
+        "condition": "Fog then Sunny",
+        "description": "Morning fog, becoming sunny and warm"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 72,
+        "low_fahrenheit": 53,
+        "condition": "Partly Cloudy",
+        "description": "Some clouds, pleasant"
+      }
+    },
+    {
+      "zip_code": "93454",
+      "city": "Santa Maria",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Overcast",
+        "description": "Cool and dreary coastal conditions",
+        "temperature_fahrenheit": 61,
+        "temperature_celsius": 16.1,
+        "feels_like_fahrenheit": 59,
+        "humidity_percent": 88,
+        "wind_speed_mph": 10,
+        "visibility_miles": 6
+      },
+      "forecast_today": {
+        "high_fahrenheit": 64,
+        "low_fahrenheit": 56,
+        "condition": "Overcast",
+        "description": "Persistent coastal gloom"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 63,
+        "low_fahrenheit": 55,
+        "condition": "Light Rain",
+        "description": "Chance of light rain showers"
+      }
+    },
+    {
+      "zip_code": "92501",
+      "city": "Riverside",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Sunny",
+        "description": "Inland Empire warmth with clear skies",
+        "temperature_fahrenheit": 90,
+        "temperature_celsius": 32.2,
+        "feels_like_fahrenheit": 89,
+        "humidity_percent": 35,
+        "wind_speed_mph": 6,
+        "visibility_miles": 10
+      },
+      "forecast_today": {
+        "high_fahrenheit": 94,
+        "low_fahrenheit": 70,
+        "condition": "Sunny",
+        "description": "Hot and dry"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 92,
+        "low_fahrenheit": 68,
+        "condition": "Sunny",
+        "description": "Similar warm and sunny conditions"
+      }
+    },
+    {
+      "zip_code": "95616",
+      "city": "Davis",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Sunny",
+        "description": "Pleasant Central Valley warmth",
+        "temperature_fahrenheit": 88,
+        "temperature_celsius": 31.1,
+        "feels_like_fahrenheit": 87,
+        "humidity_percent": 32,
+        "wind_speed_mph": 8,
+        "visibility_miles": 10
+      },
+      "forecast_today": {
+        "high_fahrenheit": 92,
+        "low_fahrenheit": 66,
+        "condition": "Sunny",
+        "description": "Warm and clear"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 90,
+        "low_fahrenheit": 64,
+        "condition": "Sunny",
+        "description": "Sunny with light breeze"
+      }
+    },
+    {
+      "zip_code": "90802",
+      "city": "Long Beach",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Partly Cloudy",
+        "description": "Coastal clouds in the morning, clearing up",
+        "temperature_fahrenheit": 71,
+        "temperature_celsius": 21.7,
+        "feels_like_fahrenheit": 72,
+        "humidity_percent": 70,
+        "wind_speed_mph": 10,
+        "visibility_miles": 8
+      },
+      "forecast_today": {
+        "high_fahrenheit": 75,
+        "low_fahrenheit": 63,
+        "condition": "Partly Cloudy",
+        "description": "Morning marine layer, afternoon sun"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 73,
+        "low_fahrenheit": 62,
+        "condition": "Partly Cloudy",
+        "description": "Mix of sun and clouds"
+      }
+    },
+    {
+      "zip_code": "93940",
+      "city": "Monterey",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Foggy",
+        "description": "Dense coastal fog, very cool",
+        "temperature_fahrenheit": 56,
+        "temperature_celsius": 13.3,
+        "feels_like_fahrenheit": 54,
+        "humidity_percent": 95,
+        "wind_speed_mph": 7,
+        "visibility_miles": 0.5
+      },
+      "forecast_today": {
+        "high_fahrenheit": 59,
+        "low_fahrenheit": 50,
+        "condition": "Foggy",
+        "description": "Persistent fog throughout the day"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 58,
+        "low_fahrenheit": 51,
+        "condition": "Dense Fog",
+        "description": "Fog continues, low visibility"
+      }
+    },
+    {
+      "zip_code": "92314",
+      "city": "Big Bear Lake",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Clear",
+        "description": "Crisp mountain air, clear skies",
+        "temperature_fahrenheit": 70,
+        "temperature_celsius": 21.1,
+        "feels_like_fahrenheit": 68,
+        "humidity_percent": 30,
+        "wind_speed_mph": 10,
+        "visibility_miles": 10
+      },
+      "forecast_today": {
+        "high_fahrenheit": 73,
+        "low_fahrenheit": 48,
+        "condition": "Sunny",
+        "description": "Warm mountain day"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 70,
+        "low_fahrenheit": 45,
+        "condition": "Partly Cloudy",
+        "description": "Chance of isolated thunderstorms"
+      }
+    },
+    {
+      "zip_code": "95926",
+      "city": "Chico",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Sunny",
+        "description": "Hot and clear Northern California valley",
+        "temperature_fahrenheit": 95,
+        "temperature_celsius": 35.0,
+        "feels_like_fahrenheit": 94,
+        "humidity_percent": 25,
+        "wind_speed_mph": 5,
+        "visibility_miles": 10
+      },
+      "forecast_today": {
+        "high_fahrenheit": 99,
+        "low_fahrenheit": 70,
+        "condition": "Sunny",
+        "description": "Very hot and dry"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 97,
+        "low_fahrenheit": 68,
+        "condition": "Sunny",
+        "description": "Continued hot weather"
+      }
+    },
+    {
+      "zip_code": "94590",
+      "city": "Walnut Creek",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Sunny",
+        "description": "Pleasant East Bay inland weather",
+        "temperature_fahrenheit": 86,
+        "temperature_celsius": 30.0,
+        "feels_like_fahrenheit": 85,
+        "humidity_percent": 40,
+        "wind_speed_mph": 7,
+        "visibility_miles": 10
+      },
+      "forecast_today": {
+        "high_fahrenheit": 90,
+        "low_fahrenheit": 65,
+        "condition": "Sunny",
+        "description": "Warm and clear"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 88,
+        "low_fahrenheit": 63,
+        "condition": "Sunny",
+        "description": "Sunny with light winds"
+      }
+    },
+    {
+      "zip_code": "91754",
+      "city": "Monterey Park",
+      "state": "CA",
+      "current_weather": {
+        "condition": "Partly Cloudy",
+        "description": "Morning low clouds clearing",
+        "temperature_fahrenheit": 75,
+        "temperature_celsius": 23.9,
+        "feels_like_fahrenheit": 76,
+        "humidity_percent": 65,
+        "wind_speed_mph": 6,
+        "visibility_miles": 9
+      },
+      "forecast_today": {
+        "high_fahrenheit": 80,
+        "low_fahrenheit": 60,
+        "condition": "Partly Cloudy",
+        "description": "Morning clouds, afternoon sun"
+      },
+      "forecast_tomorrow": {
+        "high_fahrenheit": 78,
+        "low_fahrenheit": 59,
+        "condition": "Sunny",
+        "description": "Mainly clear and pleasant"
+      }
+    }
+  ]

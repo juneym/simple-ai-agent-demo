@@ -1,0 +1,4 @@
+openapi.apikey
+.env
+node_modules/
+*.apikey
