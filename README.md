@@ -74,6 +74,57 @@ AI Response:
 Why did the Mazda MX-5 go to the dance? Because it loved to cruise and dance on the road!
 ```
 
+## Diagram
+
+Below is a text-based diagram illustrating the primary entities, their integrations, and the tools available to the `SmartAgentService`:
+
+```
++-------------------+       +-------------------+
+|                   |       |                   |
+|   OpenAIService   |<----->|   OpenAI API      |
+|                   |       |                   |
++-------------------+       +-------------------+
+         |
+         |
+         v
++-------------------+       +-------------------+
+|                   |       |                   |
+| WeatherService    |<----->| Mock Weather API  |
+|                   |       |                   |
++-------------------+       +-------------------+
+         |
+         |
+         v
++-------------------+
+|                   |
+| SmartAgentService |
+|                   |
++-------------------+
+         |
+         |
+         v
++-------------------+       +-------------------+
+|                   |       |                   |
+| Weather Tool      |       | Joke Tool         |
+| Fetches weather   |       | Generates jokes   |
+| data by zip code  |       | based on themes   |
++-------------------+       +-------------------+
+         |
+         |
+         v
++-------------------+
+|                   |
+|      app.ts       |
+|                   |
++-------------------+
+```
+
+- **OpenAIService**: Handles communication with the OpenAI API for generating responses and extracting information.
+- **WeatherService**: Fetches weather data from a mock weather API based on zip codes.
+- **SmartAgentService**: Orchestrates interactions between the OpenAIService, WeatherService, and available tools (Weather Tool and Joke Tool), providing intelligent responses to user queries.
+- **Weather Tool**: Fetches weather data based on zip codes or city/state.
+- **Joke Tool**: Generates fun and safe jokes based on specified themes.
+- **app.ts**: The entry point of the application, serving as the CLI interface for user interactions.
 
 ## Contributing
 
