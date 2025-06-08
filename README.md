@@ -1,4 +1,4 @@
-# Weather CLI Application
+# Simple AI Agent Using OpenAI Tools / Function Calling
 
 This is a command line interface (CLI) application that serves as a smart assistant. It allows users to ask questions about the weather in a specific location, such as a zip code or city/state, and provides detailed weather information. Additionally, the application can generate fun and safe jokes based on a specified theme. 
 
