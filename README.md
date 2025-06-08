@@ -15,12 +15,12 @@ By leveraging OpenAI's language model, it delivers intelligent and engaging resp
 
 1. Clone the repository:
    ```
-   git clone https://github.com/juneym/rag-demo-weather.git
+   git clone https://github.com/juneym/simple-ai-agent-demo.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd weather-cli-app
+   cd simple-ai-agent-demo
    ```
 
 3. Install the dependencies:
@@ -50,7 +50,7 @@ ts-node src/app.ts
 
 ```
 
-rmartinez@BIBOYGPDLINUX:~/codes/ai-engineering/simple-agent-demo$ ts-node src/app.ts 
+rmartinez@BIBOYGPDLINUX:~/codes/ai-engineering/simple-ai-agent-demo$ ts-node src/app.ts 
 
 
 Hi! I am your smart assistant! How can I help you today? 
